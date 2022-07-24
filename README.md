@@ -7,9 +7,11 @@
 - 우리는 부모님의 생신, 연인과의 기념일 등 특별한 날에 좋은 곳에서 식사하기 위해 맛집을 검색합니다. 하지만 막상 찾아보면 내가 찾아본 곳이 광고가 아닌 진짜 맛집인가하는 의구심을 품게 되고 직접 먹어보기 전까지는 정확하게 알 수가 없습니다. 그래서 맛집을 찾기 위해 우리가 어디에 검색해보는 것이 좋은 방법일지 찾아보기 위해 이 주제를 선정하였습니다.
 
 ## 담당 파트
-- 인스타그램 크롤러 제작
+- [인스타그램 크롤러 제작](https://github.com/hoseong0422/MC_PJ_02/blob/master/codes/insta_v2.py)
 - Twitter API와 Apache Kafka를 이용한 실시간 피드 수집
-- Apache Spark를 이용한 Data Mart 구축
-- 각 사이트별 상,하위 20개 식당 분석 및 전체 사이트별 평점 분포 분석
+  - [producer](https://github.com/hoseong0422/MC_PJ_02/blob/master/codes/kafka_producer.py)
+  - [consumer](https://github.com/hoseong0422/MC_PJ_02/blob/master/codes/kafka_consumer.py)
+- [Apache Spark를 이용한 Data Mart 구축](https://github.com/hoseong0422/MC_PJ_02/blob/master/codes/transform_and_analiysis.ipynb)
+- [각 사이트별 상,하위 20개 식당 분석 및 전체 사이트별 평점 분포 분석](https://github.com/hoseong0422/MC_PJ_02/blob/master/codes/transform_and_analiysis.ipynb)
 
-프로젝트 상세 정리 노션 페이지
+프로젝트 상세 정리 [notion](https://data-explorer.notion.site/642c03d6255740aaa7762d3a64c7ff93) 페이지
