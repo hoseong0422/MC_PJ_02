@@ -14,4 +14,4 @@
 - [Apache Spark를 이용한 Data Mart 구축](https://github.com/hoseong0422/MC_PJ_02/blob/master/codes/transform_and_analiysis.ipynb)
 - [각 사이트별 상,하위 20개 식당 분석 및 전체 사이트별 평점 분포 분석](https://github.com/hoseong0422/MC_PJ_02/blob/master/codes/transform_and_analiysis.ipynb)
 
-프로젝트 상세 정리 [notion](https://data-explorer.notion.site/642c03d6255740aaa7762d3a64c7ff93) 페이지
+프로젝트 상세 정리 [노션](https://field-nerve-7fd.notion.site/df90cc1c05de4f61a5e1a43cb07d4c88) 페이지
